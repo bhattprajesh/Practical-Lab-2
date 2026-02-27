@@ -154,6 +154,3 @@ jupyter notebook diabetes_ml_lab.ipynb
 
 ---
 
-## License
-
-This project is for academic/educational purposes using the publicly available Scikit-Learn Diabetes dataset.
