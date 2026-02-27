@@ -4,17 +4,6 @@ A machine learning lab notebook that builds and evaluates multiple models to pre
 
 ---
 
-## Project Structure
-
-```
-diabetes_project/
-├── diabetes_ml_lab.ipynb   # Main notebook v2 — fully upgraded (all Parts 1–3)
-├── README.md               # This file
-├── requirements.txt        # Python dependencies
-└── .gitignore              # Git ignore rules
-```
-
----
 
 ## Objective
 
