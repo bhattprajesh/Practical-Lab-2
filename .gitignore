@@ -54,6 +54,8 @@ Thumbs.db
 *.jpeg
 *.pdf
 *.svg
+!figures/          ← un-ignore the figures folder
+!figures/*.png
 
 # ── Data files (uncomment if storing raw data locally) ───────────────────────
 # data/
